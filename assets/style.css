@@ -32,6 +32,10 @@ header{
     border-radius: 60px;
     margin: 1em;
 }
+p{
+    font-family: fantasy;
+    font-size: 40px;
+}
 .answer{
     position: relative;
     display: grid;
